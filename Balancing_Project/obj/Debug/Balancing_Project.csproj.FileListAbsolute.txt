@@ -1,0 +1,55 @@
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\bin\Debug\Balancing_Project.exe.config
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.csprojResolveAssemblyReference.cache
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.Form1.resources
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.Properties.Resources.resources
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.csproj.GenerateResource.Cache
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.exe.licenses
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\bin\Debug\Balancing_Project.exe
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\bin\Debug\Balancing_Project.pdb
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\bin\Debug\NationalInstruments.UI.Styles3D.dll
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.exe
+c:\users\ryan_sw\documents\visual studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.pdb
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Balancing_Project\Balancing_Project\bin\Debug\Balancing_Project.exe.manifest
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Balancing_Project\Balancing_Project\bin\Debug\Balancing_Project.application
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.exe.manifest
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Balancing_Project\Balancing_Project\obj\Debug\Balancing_Project.application
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.exe.config
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.exe
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.pdb
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.csprojResolveAssemblyReference.cache
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.Form1.resources
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.Properties.Resources.resources
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.csproj.GenerateResource.Cache
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.exe.licenses
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.exe.manifest
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.application
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.exe
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.pdb
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.exe.manifest
+C:\Users\RYAN_SW\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.application
+C:\Users\USER\Documents\Arduino\Ventilator_Project\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.exe.config
+C:\Users\USER\Documents\Arduino\Ventilator_Project\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.exe
+C:\Users\USER\Documents\Arduino\Ventilator_Project\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.pdb
+C:\Users\USER\Documents\Arduino\Ventilator_Project\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Arduino\Ventilator_Project\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.Form1.resources
+C:\Users\USER\Documents\Arduino\Ventilator_Project\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.Properties.Resources.resources
+C:\Users\USER\Documents\Arduino\Ventilator_Project\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Arduino\Ventilator_Project\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.exe.licenses
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.application
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Balancing_Project.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.exe.licenses
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\obj\Debug\Balancing_Project.application
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\Ventilator_Project\Balancing_Project\bin\Debug\Bunifu_UI_v1.52.dll
